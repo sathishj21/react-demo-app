@@ -21,15 +21,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mskhirwar/react-express-webpack.git"
+    "url": "git+https://github.com/sathishj21/react-express-webpack.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/mskhirwar/react-express-webpack/issues"
+    "url": "https://github.com/sathishj21/react-express-webpack/issues"
   },
-  "homepage": "https://github.com/mskhirwar/react-express-webpack#readme",
+  "homepage": "https://github.com/sathishj21/react-express-webpack#readme",
   "dependencies": {
     "bootstrap": "^4.3.1",
     "express": "^4.17.1",
